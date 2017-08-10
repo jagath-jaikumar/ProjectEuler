@@ -1,4 +1,4 @@
-# Project Euler - Jagath Jai Kumar
+# Hey Pran!
 
 These are my solutions to Project Euler problems. Please try to solve the problems for yourselves before looking at my solutions.
 
